@@ -82,13 +82,6 @@ The first player to empty their hand wins the game. Other players receive penalt
 - Algorithms for validating groups and runs  
 - Game state management for turns and combinations  
 
----
-
-# 📸 Game Tiles Example
-
-Here’s an example of Rummikub tiles:
-
-![Rummikub Tiles](https://boardgoats.org/tag/rummikub/)
 
 ---
 
