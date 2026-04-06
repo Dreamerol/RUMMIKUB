@@ -7,6 +7,8 @@
 
 <div align="center">
 
+---
+
 <img src="https://github.com/Dreamerol/Dreamerol/blob/cd7c3a8443730e5af56d1ae642a461862dd61bb0/ZRUMMICUB.jpg" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
 
 <img src="https://img.shields.io/badge/Dev%20Environment-Visual%20Studio-blue?style=for-the-badge" alt="Visual Studio" height="40">
@@ -15,6 +17,7 @@
 
 </div>
 
+---
 
 # 📖 Overview
 
