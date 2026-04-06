@@ -3,6 +3,8 @@
 
 # 🎲 RUMMIKUB CONSOLE GAME - C++
 
+---
+
 <div align="center">
 
 <img src="https://github.com/Dreamerol/Dreamerol/blob/cd7c3a8443730e5af56d1ae642a461862dd61bb0/ZRUMMICUB.jpg" alt="POCKER" style="width:100%; height:auto; margin-bottom: 20px;">
@@ -11,17 +13,18 @@
 <img src="https://img.shields.io/badge/Language-C++-yellow?style=for-the-badge" alt="C++" height="40">
 <img src="https://img.shields.io/badge/Paradigms-Procedural%20&amp;%20Modular-orange?style=for-the-badge" alt="Paradigms" height="40">
 
-
 </div>
 
 
-This project is a C++ implementation of the classic **Rummikub** game. It demonstrates how to use **Object-Oriented Programming (OOP)** and **dynamic data structures** to implement game logic and tile combinations.
-
----
-
 # 📖 Overview
 
-This project is a C++ implementation of the classic **Rummikub** game. It demonstrates how to use **Object-Oriented Programming (OOP)** and **dynamic data structures** to implement game logic and tile combinations. The program simulates a simplified version of Rummikub where players draw and play tiles to form valid combinations. It shows how real-world game logic can be modeled using programming concepts such as classes, dynamic arrays, and algorithms.
+This project brings the classic Rummikub game to life using C++, turning the tabletop experience into a console-based digital simulation.
+
+Imagine sitting at a table with friends: each player draws tiles, tries to form sequences or sets, and carefully plans their moves. In this project, the computer takes the role of both dealer and referee, handling the game logic, tile distribution, and validation automatically.
+
+I designed the program to be modular and object-oriented, using classes to represent players, tiles, and the game board. Dynamic data structures allow the program to manage each player’s hand and the pool of remaining tiles efficiently. Algorithms check for valid sets and sequences, ensuring that the rules of Rummikub are respected every turn.
+
+Through this project, I learned how to model real-world game mechanics in code, simulate player interactions, and implement dynamic logic that adapts to the current state of the game. It’s more than just a game—it’s a hands-on exploration of OOP, dynamic arrays, and algorithmic problem-solving, showing how programming can capture the complexity and fun of classic board games.
 
 ---
 
