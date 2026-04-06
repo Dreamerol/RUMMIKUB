@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🎲 RUMMIKUB CONSOLE GAME - C++
 
