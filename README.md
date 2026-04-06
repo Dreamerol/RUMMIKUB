@@ -6,6 +6,14 @@
 
 ---
 
+<div align="left">
+
+🖥 **Development Environment:** Visual Studio  
+💻 **Language:** C++  
+🛠 **Paradigms:** Procedural programming, modular design  
+🎯 **Target Audience:** Students, beginner to intermediate C++ developers  
+
+</div>
 
 # 📖 Overview
 
