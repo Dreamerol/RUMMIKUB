@@ -28,6 +28,8 @@
 
 </div>
 
+---
+
 # 📖 Overview
 
 This project brings the classic **Rummikub** game to life using C++, turning the tabletop experience into a console-based digital simulation.
