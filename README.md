@@ -31,7 +31,6 @@
 
 </div>
 
-
 ---
 
 <div align="left">
@@ -42,7 +41,6 @@
 🎯 **Target Audience:** Students, beginner to intermediate C++ developers  
 
 </div>
-
 
 ---
 
@@ -68,7 +66,7 @@
 </div>
 
 
-===
+---
 
 # 📖 Overview
 
