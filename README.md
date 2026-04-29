@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🎲 RUMMIKUB CONSOLE GAME - C++
+# 🎲 𝗥𝗨𝗠𝗠𝗜𝗞𝗨𝗕 𝗖𝗢𝗡𝗦𝗢𝗟𝗘 𝗚𝗔𝗠𝗘 – 𝗖++
 
 </div>
 
